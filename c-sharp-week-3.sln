@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "even-or-odd", "even-or-odd\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loan-approval-or-rejection", "loan-approval-or-rejection\loan-approval-or-rejection.csproj", "{DF929707-1846-4463-B3F9-B8050E5226DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "area-geometric-figure", "area-geometric-figure\area-geometric-figure.csproj", "{C9060690-C2C1-4547-BB52-6A419F0C0675}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{DF929707-1846-4463-B3F9-B8050E5226DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF929707-1846-4463-B3F9-B8050E5226DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF929707-1846-4463-B3F9-B8050E5226DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9060690-C2C1-4547-BB52-6A419F0C0675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9060690-C2C1-4547-BB52-6A419F0C0675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9060690-C2C1-4547-BB52-6A419F0C0675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9060690-C2C1-4547-BB52-6A419F0C0675}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
