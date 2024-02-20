@@ -3,9 +3,9 @@
 try
 {
     Console.WriteLine("Ingrese su edad:");
-    int edad = Convert.ToInt32(Console.ReadLine());
+    int age = Convert.ToInt32(Console.ReadLine());
 
-    if (edad >= 18)
+    if (age >= 18)
     {
         Console.WriteLine("Bienvenido al club");
     }
