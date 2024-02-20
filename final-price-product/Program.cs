@@ -13,6 +13,7 @@ try
         double descuento = precio * 0.10;
         precioFinal = precio - descuento;
         Console.WriteLine("Se aplicó un descuento del 10%.");
+        Console.WriteLine($"Total del descuento Q{descuento}");
     }
     else
     {
@@ -20,7 +21,7 @@ try
         Console.WriteLine("El precio no supera los Q100. No aplica descuento.");
     }
 
-    Console.WriteLine("El precio final del producto es: Q" + precioFinal);
+    Console.WriteLine($"El precio final del producto es: Q{precioFinal}");
 }
 catch (Exception ex)
 {
