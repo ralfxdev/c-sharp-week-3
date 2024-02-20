@@ -13,9 +13,9 @@ try
     Console.WriteLine("Ingrese el tercer número:");
     n3 = Convert.ToDouble(Console.ReadLine()!);
 
-    double mayor = Math.Max(n1, Math.Max(n2, n3));
+    double biggerN = Math.Max(n1, Math.Max(n2, n3));
 
-    Console.WriteLine($"El mayor número ingresado es: {mayor}");
+    Console.WriteLine($"El mayor número ingresado es: {biggerN}");
 }
 catch (Exception ex)
 {
