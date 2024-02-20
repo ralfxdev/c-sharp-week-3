@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bigger-number", "bigger-num
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "club-access", "club-access\club-access.csproj", "{495D9712-432E-4307-9BFF-7545C9F8685E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "final-price-product", "final-price-product\final-price-product.csproj", "{FC0E218A-3A5D-422B-8239-52024F6574D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{495D9712-432E-4307-9BFF-7545C9F8685E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{495D9712-432E-4307-9BFF-7545C9F8685E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{495D9712-432E-4307-9BFF-7545C9F8685E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC0E218A-3A5D-422B-8239-52024F6574D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC0E218A-3A5D-422B-8239-52024F6574D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC0E218A-3A5D-422B-8239-52024F6574D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC0E218A-3A5D-422B-8239-52024F6574D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
