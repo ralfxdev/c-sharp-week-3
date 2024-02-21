@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bigger-number", "bigger-number\bigger-number.csproj", "{88D071E2-B2A0-4D7C-9574-025F59E66DDE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bigger-number", "bigger-number\bigger-number.csproj", "{88D071E2-B2A0-4D7C-9574-025F59E66DDE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "club-access", "club-access\club-access.csproj", "{495D9712-432E-4307-9BFF-7545C9F8685E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "club-access", "club-access\club-access.csproj", "{495D9712-432E-4307-9BFF-7545C9F8685E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "final-price-product", "final-price-product\final-price-product.csproj", "{FC0E218A-3A5D-422B-8239-52024F6574D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "final-price-product", "final-price-product\final-price-product.csproj", "{FC0E218A-3A5D-422B-8239-52024F6574D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "login-simulator", "login-simulator\login-simulator.csproj", "{1ECB4863-8D37-4425-BB14-93DA86F14CE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "login-simulator", "login-simulator\login-simulator.csproj", "{1ECB4863-8D37-4425-BB14-93DA86F14CE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "even-or-odd", "even-or-odd\even-or-odd.csproj", "{11396F5C-83A8-47A1-92D3-457E17634C0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "even-or-odd", "even-or-odd\even-or-odd.csproj", "{11396F5C-83A8-47A1-92D3-457E17634C0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loan-approval-or-rejection", "loan-approval-or-rejection\loan-approval-or-rejection.csproj", "{DF929707-1846-4463-B3F9-B8050E5226DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "loan-approval-or-rejection", "loan-approval-or-rejection\loan-approval-or-rejection.csproj", "{DF929707-1846-4463-B3F9-B8050E5226DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "area-geometric-figure", "area-geometric-figure\area-geometric-figure.csproj", "{C9060690-C2C1-4547-BB52-6A419F0C0675}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "area-geometric-figure", "area-geometric-figure\area-geometric-figure.csproj", "{C9060690-C2C1-4547-BB52-6A419F0C0675}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "number-as-letter-to-number", "number-as-letter-to-number\number-as-letter-to-number.csproj", "{9E365BD0-CFD1-423E-877B-DBCE00026DC0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{C9060690-C2C1-4547-BB52-6A419F0C0675}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9060690-C2C1-4547-BB52-6A419F0C0675}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9060690-C2C1-4547-BB52-6A419F0C0675}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E365BD0-CFD1-423E-877B-DBCE00026DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E365BD0-CFD1-423E-877B-DBCE00026DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E365BD0-CFD1-423E-877B-DBCE00026DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E365BD0-CFD1-423E-877B-DBCE00026DC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
